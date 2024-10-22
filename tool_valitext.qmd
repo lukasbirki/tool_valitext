@@ -40,7 +40,8 @@ At its core, ValiText requires three types of validation evidence:
 - **Structural Evidence**: Requires examining and evaluating **properties of the model and its measures**.
 - **External Evidence**: Requires testing how the measure relates to **other independent information or criteria**.
 
-The framework is complemented by a checklist that defines and outlines empirical validation steps available to collect validity evidence for different use cases.
+The framework is complemented by a checklist that defines and outlines empirical validation steps available to collect validity evidence for different use cases. For each validation step, we include its name, a brief description, implementation methods, and a classification indicating whether the validation step is generally applicable or con-
+text-dependent. Additionally, we provide references to practical applications and further literature. If applicable, we also discuss 
 
 If you want to learn more about the framework and the checklist, please click on the respective section below or have a look at the corresponding [paper](https://arxiv.org/abs/2307.02863).
 
