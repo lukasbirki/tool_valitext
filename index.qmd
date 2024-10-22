@@ -4,7 +4,7 @@ subtitle: "A Validation Framework for Text-Based Measures of Social Constructs"
 author: "Lukas Birkenmaier"
 bibliography: references.bib
 format: html
-image: img/logo_valitext.png
+image: images/logo_valitext.png
 image-alt: logo
 editor: visual
 ---
