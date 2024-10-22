@@ -1,0 +1,12 @@
+# R related files
+.Rproj.user/
+.RData
+.Rhistory
+
+# Quarto related files
+.quarto/
+tool_valitext.html
+
+# Other project specific files
+tool_valitext.Rproj
+tool_valitext_files/

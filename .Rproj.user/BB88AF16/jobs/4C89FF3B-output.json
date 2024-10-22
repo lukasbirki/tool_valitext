@@ -7,3 +7,5 @@
 [1,"Output created: tool_valitext.html\n\nWatching files for changes\n"]
 [1,"pandoc \n  to: html\n  output-file: tool_valitext.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  title: ValiText - A Validation Framework for Text-Based Measures of Social Constructs\n  author: Lukas Birkenmaier\n  bibliography:\n    - references.bib\n  \n"]
 [1,"Output created: tool_valitext.html\n\nWatching files for changes\n"]
+[1,"pandoc \n  to: html\n  output-file: tool_valitext.html\n  standalone: true\n  section-divs: true\n  html-math-method: mathjax\n  wrap: none\n  default-image-extension: png\n  \nmetadata\n  document-css: false\n  link-citations: true\n  date-format: long\n  lang: en\n  editor: visual\n  title: ValiText\n  subtitle: A Validation Framework for Text-Based Measures of Social Constructs\n  author: Lukas Birkenmaier\n  bibliography:\n    - references.bib\n  \n"]
+[1,"Output created: tool_valitext.html\n\nWatching files for changes\n"]
