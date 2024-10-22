@@ -1,0 +1,33 @@
+{
+    "id": "E4BCFB06",
+    "path": "~/Git-Projekte/tool_valitext/tool_valitext.qmd",
+    "project_path": "tool_valitext.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": true,
+    "created": 1727686597185.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualModeLocation": "3319:1662",
+        "rmdVisualCollapsedChunks": "",
+        "cursorPosition": "43,133",
+        "scrollLine": "30",
+        "docOutlineSize": "162",
+        "ignored_words": "datasets\n"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1729587867,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1729587983881,
+    "read_only": false,
+    "read_only_alternatives": []
+}
